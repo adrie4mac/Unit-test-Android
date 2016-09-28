@@ -1,1 +1,26 @@
-/build
+# built application files (include .apk, .ap_,.dex,.class )
+build/
+
+# generated files
+bin/
+gen/
+
+# Ignore gradle files
+.gradle/
+
+# Local configuration file (sdk url, etc)
+/local.properties
+/project.properties
+
+
+proguard/
+/proguard-project.txt
+
+
+.idea/
+
+#osx ds_store
+.DS_Store
+
+
+*.iml
